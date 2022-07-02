@@ -1,2 +1,2 @@
 # CNN_DeepLearning
-Classifing Handwritten numbers using CNN Architecture
+Classifying Handwritten numbers using CNN Architecture
